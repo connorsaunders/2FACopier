@@ -1,0 +1,3 @@
+Test script:
+osascript -e "display notification \"Your FanDuel authentication code is 404645.\" with title \"55768\""
+
