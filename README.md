@@ -1,2 +1,2 @@
 Two Factor Authentication copy and paster
-copying and pasting 2FA codes from your Mac notifications
+copying and pasting 2FA codes from your Mac notifications with Python/AppleScript
