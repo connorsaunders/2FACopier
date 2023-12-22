@@ -1,1 +1,0 @@
-/Users/connorsaunders/Desktop/TwoFACopier/get_notification.scpt

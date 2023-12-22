@@ -1,0 +1,1 @@
+/Users/connorsaunders/Desktop/On GitHub/TwoFACopier/get_notification.scpt
