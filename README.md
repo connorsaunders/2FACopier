@@ -24,11 +24,7 @@ NotificationWatcherApp is a Python application designed to monitor system notifi
 3. Download the `main.py` and `get_notification.scpt` files to the same directory.
 
 ## Usage
-1. Run the script using Python 3:
-python3 NotificationWatcherApp.py
-
-2. Once started, the app will appear in the macOS status bar with options to start or stop the notification monitoring.
-3. When a notification containing a 2FA code arrives, the app will capture and copy the code to the clipboard and play a sound notification.
+Either use the app inside the dist folder (currently named testrun1) or build your own app by running the setup.py file with py2app 
 
 ## How It Works
 - The app uses AppleScript (`get_notification.scpt`) to access and read notifications from the Notification Center.
